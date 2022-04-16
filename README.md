@@ -125,16 +125,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Riley Stephens - rileystephens@escalatorllc.com
+Naruhito Takei - naruhito.takei@gmail.com
 
 <p align="right"><a href="#top">back to top</a></p>
 
 
 
 <!-- Project URLS-->
-[github-url]: https://github.com/rileystephens28/mintango
-[github-issues]: https://github.com/rileystephens28/mintango/issues
-[repo-path]: rileystephens28/mintango
+[github-url]: https://github.com/naruhito/nft-mintango
+[repo-path]: naruhito/nft-mintango
 
 <!-- Built With URLS -->
 [react]: https://reactjs.org/
